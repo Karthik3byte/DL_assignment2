@@ -1,1 +1,1 @@
-# DL_assignment2
+# MIN-MAX Algorithm
